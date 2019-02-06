@@ -1,6 +1,5 @@
 ---
+title: tbfts
 ---
 
-Hello World
-
-I'm hosted with GitHub Pages.
+WIP for now.
